@@ -1,7 +1,7 @@
 <h1 align="center">Assalomu Alaykum 👋, I'm Nematov Begzod (Ansor)</h1>
 <h3 align="center">A passionate frontend developer from Uzbekiston</h3>
 
-<h2 align="center"> 
+<h3 align="center"> 
   - 🔭 I’m currently working on **The Movie Database (TMDB)**
 
 - 🌱 I’m currently learning **Advance React Redux,TypeScript**
@@ -15,7 +15,7 @@
 - 📫 How to reach me **lllansorlll@gmail.com**
 
 - ⚡ Fun fact **I think I am strong 😎** 
-</h2>
+</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
