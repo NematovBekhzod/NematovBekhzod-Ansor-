@@ -1,5 +1,5 @@
 <h1 align="center">Assalomu Alaykum 👋, I'm Nematov Begzod (Ansor)</h1>
-<h3 align="center">A passionate frontend developer from Uzbekiston</h3>
+<h2 align="center">A passionate frontend developer from Uzbekiston</h2>
 
 <h3 align="center"> 
 
